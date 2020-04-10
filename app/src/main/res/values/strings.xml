@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trabalho1</string>
+
+    <string-array name="toques">
+        <item>"Toque 1"</item>
+        <item>"Toque 2"</item>
+        <item>"Toque 3"</item>
+    </string-array>
+</resources>
